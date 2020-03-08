@@ -1,0 +1,10 @@
+name,quadrant,ring,isNew,description
+name-1,Q1,PROD,TRUE,<p>Details zum Thema name-1...</p>
+name-2,Q1,ADOPT,TRUE,<p>Details zum Thema name-2...</p>
+name-3,Q2,VISION,FALSE,<p>Details zum Thema name-3...</p>
+name-4,Q2,PROD,FALSE,<p>Details zum Thema name-4...</p>
+name-5,Q3,ADOPT,TRUE,<p>Details zum Thema name-5...</p>
+name-6,Q3,VISION,TRUE,<p>Details zum Thema name-6...</p>
+name-7,Q4,PROD,FALSE,<p>Details zum Thema name-7...</p>
+name-8,Q4,ADOPT,FALSE,<p>Details zum Thema name-8...</p>
+name-9,Q4,VISION,TRUE,<p>Details zum Thema name-9...</p>
